@@ -14,13 +14,12 @@ Python の文法を理解し、その先に進みたい人向けに役立つか�
 ## 1. 内容（予定含む）
 
 1. Beautiful-MD.ipynb
-
-Jupyter notebook の Markdown セルを使って
+  Jupyter notebook の Markdown セルを使って
 きれいなコメントを書くための基礎知識。
 
 2. Python-control-1.ipynb (Under construction)
 
-Python を使って制御の課題を扱うために使う
+  Python を使って制御の課題を扱うために使う
 Python System Control Library (略して Python-Control) の
 使い方と制御についての入門編
 

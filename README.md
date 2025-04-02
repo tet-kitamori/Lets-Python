@@ -22,7 +22,8 @@ Python の文法を理解し、その先に進みたい人向けに役立つか�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Python を使って制御の課題を扱うために使う
 Python System Control Library (略して Python-Control) の
-使い方と制御についての入門編
+使い方と制御についての入門編。&nbsp;数式が多いので、Beautiful-MD で書いた内容が
+多く使われているので、Markdownセルの書き方の例として参考になるかも。
 
 3. Python-control-2.ipynb (Under planning)
 
@@ -32,3 +33,6 @@ Python System Control Library (略して Python-Control) の
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ネット上に公開されている経済的な生データを
 入手して、Python を使って解析を行う方法の入門編
+
+### **注記**
+このレジストリの notebook は、Windows 11 PC にて作成しています。

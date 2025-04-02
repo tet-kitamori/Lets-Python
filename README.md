@@ -15,20 +15,20 @@ Python の文法を理解し、その先に進みたい人向けに役立つか�
 
 1. Beautiful-MD.ipynb
 
-&nbsp;&nbsp;&nbsp; Jupyter notebook の Markdown セルを使って
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupyter notebook の Markdown セルを使って
 きれいなコメントを書くための基礎知識。
 
 2. Python-control-1.ipynb (Under construction)
 
-&nbsp;&nbsp;&nbsp;   Python を使って制御の課題を扱うために使う
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Python を使って制御の課題を扱うために使う
 Python System Control Library (略して Python-Control) の
 使い方と制御についての入門編
 
 3. Python-control-2.ipynb (Under planning)
 
-&nbsp;&nbsp;&nbsp; 上記の続編
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上記の続編
 
 4. Economic-Analysis.ipynb (Under planning)
 
-&nbsp;&nbsp;&nbsp; ネット上に公開されている経済的な生データを
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ネット上に公開されている経済的な生データを
 入手して、Python を使って解析を行う方法の入門編
